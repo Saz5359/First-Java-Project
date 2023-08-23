@@ -1,0 +1,20 @@
+Order Number: 001
+Customer: Alex
+Email: Alex123@yahoo.com
+Phone Number: 0973444
+Location:Bloemfontein
+
+You have ordered the following from Futurama in Bloemfontein: 
+
+2 x Creamy Pizza R140.0
+2 x Rib Burger R120.0
+
+Special preparation Instructions: None
+
+Total: R260.0
+
+Kailan Snow is nearest to the restaurant and so he/she will be delivering your order to you at: 
+
+321 Avenue
+
+If you need to contact the restaurant, their number is 0786388
