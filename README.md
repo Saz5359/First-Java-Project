@@ -54,4 +54,3 @@ The system contains the following features:
 - If a driver is not found then the user is notified in the invoice that there is no driver.
 - This project was created using:
    + JAVA
-   + SQL Server
