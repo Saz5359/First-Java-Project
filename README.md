@@ -52,3 +52,6 @@ The system contains the following features:
 - The system reads the drivers.txt file and finds the driver in the correct area with the smallest load for the delivery.
 - If a driver is found an invoice is created for the customer the invoice contains the order info and the driver information.
 - If a driver is not found then the user is notified in the invoice that there is no driver.
+- This project was created using:
+   + JAVA
+   + SQL Server
