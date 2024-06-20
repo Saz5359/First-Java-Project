@@ -1,5 +1,5 @@
 
-# Food Quick Delivery
+# SwiftServe: Fast and Automated Food Delivery System
 
 This is a food delivery system for a food delivery company. The system receives customer orders and distributes them to a driver based on their current load and their location. It also prints an invoice to a .txt file for the customer and updates the database with the customer info and the new driver load.
 
